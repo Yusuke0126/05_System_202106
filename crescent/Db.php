@@ -7,6 +7,14 @@ class Db
     private $dbuser;
     private $dbpass;
 
+    /**
+     * プロパティの設定
+     *
+     * @param string $dbhost
+     * @param string $dbname
+     * @param string $dbuser
+     * @param string $dbpass
+     */
     public function __construct(
         string $dbhost,
         string $dbname,
