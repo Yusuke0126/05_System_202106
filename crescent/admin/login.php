@@ -8,7 +8,7 @@
 <body>
 <header>
   <div class="inner">
-    <span><a href="index.html">Crescent Shoes 管理</a></span>
+    <span><a href="index.php">Crescent Shoes 管理</a></span>
   </div>
 </header>
 <div id="container">

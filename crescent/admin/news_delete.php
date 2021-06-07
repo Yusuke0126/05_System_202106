@@ -8,10 +8,10 @@
 <body>
 <header>
   <div class="inner">
-    <span><a href="index.html">Crescent Shoes 管理</a></span>
+    <span><a href="index.php">Crescent Shoes 管理</a></span>
     <div id="account">
       admin
-      [ <a href="logout.html">ログアウト</a> ]
+      [ <a href="logout.php">ログアウト</a> ]
     </div>
   </div>
 </header>
